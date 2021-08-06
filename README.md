@@ -1,1 +1,1 @@
-# mobile-app-isporit-stats
+# iSporit Stats mobile application
